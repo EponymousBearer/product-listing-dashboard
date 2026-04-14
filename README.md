@@ -63,3 +63,7 @@ This app provides a clean product browsing experience built with React functiona
 
 - The app is built with functional components only.
 - Tailwind CSS is configured for styling.
+
+## Deployment
+
+Live URL: https://frontend-react-hiring-task-f3b80hx8c-adnan-projects.vercel.app
