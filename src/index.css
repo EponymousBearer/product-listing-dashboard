@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .btn-primary {
+    @apply w-full rounded-lg bg-brand-500 px-5 py-3 font-semibold text-white transition-all duration-200 hover:bg-brand-600 active:translate-y-px disabled:cursor-not-allowed disabled:opacity-50;
+  }
+}
+
 body {
   margin: 0;
   min-height: 100vh;
